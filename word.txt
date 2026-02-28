@@ -237614,7 +237614,6 @@ zorbing
 zoster
 zum
 zusanli
-#=======[NEW]=======
 ksatria
 fungi
 erika
@@ -237629,10 +237628,3 @@ tifoids
 neta
 eri
 uterus
-ndalu
-ndara
-ndaru
-ndeder
-tiflitik
-tiflografi
-tiflologi
